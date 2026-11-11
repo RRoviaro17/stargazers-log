@@ -1,0 +1,26 @@
+[
+  {
+    "type": "starred",
+    "repository": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free with interactive lessons and projects.",
+    "language": "JavaScript",
+    "starredAt": "2026-10-28"
+  },
+  {
+    "type": "starred",
+    "repository": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "The Linux kernel source tree.",
+    "language": "C",
+    "starredAt": "2026-10-19"
+  },
+  {
+    "type": "starred",
+    "repository": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "language": "TypeScript",
+    "starredAt": "2026-10-08"
+  }
+]
